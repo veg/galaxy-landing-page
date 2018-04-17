@@ -1,2 +1,3 @@
 # galaxy-landing-page
-Center pane for the VEG Galaxy server
+The center pane for the VEG Galaxy server.
+Specified in the `config/galaxy.yml` file of `veg/galaxy`.
