@@ -1,0 +1,32 @@
+html, body {
+  margin: 20px;
+}
+
+p.lead, footer p {
+  font-family: "Montserrat", sans-serif;
+  color: #333;
+  line-height: 1.5;
+  padding: 0 65px;
+}
+
+p.lead {
+  font-size: 18px;
+}
+
+footer p {
+  font-size: 12px;
+}
+
+a {
+  color: #59585a;
+  text-decoration: none;
+  font-weight: 800;
+  padding: 0px 3px;
+  border-bottom: 2px solid #cfbc2e;
+}
+
+a:hover {
+  color: #59585a;
+  font-weight: 800;
+  background-color: #cfbc2e;
+}
